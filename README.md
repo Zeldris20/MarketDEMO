@@ -1,0 +1,1 @@
+I made an application that gives you the option to buy items from a shopping list and you get given a balance to buy whatever you want and if you dont want something you press 2 and sell whichever item you wanted and add it automatically back to your balance
