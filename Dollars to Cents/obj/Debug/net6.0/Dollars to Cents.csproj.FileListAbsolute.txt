@@ -1,0 +1,14 @@
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\bin\Debug\net6.0\Dollars to Cents.exe
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\bin\Debug\net6.0\Dollars to Cents.deps.json
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\bin\Debug\net6.0\Dollars to Cents.runtimeconfig.json
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\bin\Debug\net6.0\Dollars to Cents.dll
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\bin\Debug\net6.0\Dollars to Cents.pdb
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.AssemblyInfoInputs.cache
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.AssemblyInfo.cs
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.csproj.CoreCompileInputs.cache
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.dll
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\refint\Dollars to Cents.dll
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.pdb
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\Dollars to Cents.genruntimeconfig.cache
+C:\Users\Zeldris\source\repos\Dollars to Cents\Dollars to Cents\obj\Debug\net6.0\ref\Dollars to Cents.dll
